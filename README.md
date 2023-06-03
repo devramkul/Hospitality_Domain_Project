@@ -19,5 +19,5 @@ Increased revenue by leveraging data insights to identify sales trends and optim
 Enhanced operational efficiency through the identification of bottlenecks and the implementation of targeted measures.
 
 
-![Sales Dashboard](Dashboard .png)
-*Screenshot of Sales Dashboard*
+# ![Sales Dashboard](Dashboard .png)
+ *Screenshot of Sales Dashboard*
