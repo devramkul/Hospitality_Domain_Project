@@ -18,6 +18,5 @@ Improved guest satisfaction by identifying and addressing areas for improvement 
 Increased revenue by leveraging data insights to identify sales trends and optimize strategies.
 Enhanced operational efficiency through the identification of bottlenecks and the implementation of targeted measures.
 
-
-# ![Sales Dashboard](Dashboard .png)
- *Screenshot of Sales Dashboard*
+![Screenshot](Dashboard.png)
+*Screenshot of Sales Dashboard*
